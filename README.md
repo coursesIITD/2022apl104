@@ -1,6 +1,6 @@
 # APL 104: Solid Mechanics (Odd semester 2022)
 
-**Instructors:** Prof. Ajeet Kumar (ajeetk@am.iitd.ac.in) and Prof. Rajdip Nayek (rajdipn@am.iitd.ac.in) <br> 
+**Instructors:** Prof. Ajeet Kumar[https://web.iitd.ac.in/~ajeetk/] (ajeetk@am.iitd.ac.in) and Prof. Rajdip Nayek (rajdipn@am.iitd.ac.in) <br> 
 **TA 1:** Atul Kumar (amz218551@am.iitd.ac.in) <br> 
 **TA 2:** Some student (amz____@am.iitd.ac.in) <br><br> 
 **Section A:** Tue, Wed & Fri (9:30 to 11:00 AM) at LHC126 <br> 
