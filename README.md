@@ -138,7 +138,7 @@ Lectures are to deliver fundamental knowledge and information in each module and
 
 ## Lecture Schedule
 Date |Module|Topics|Lecture Notes|
-|:-----|:-----|:--:|:--:|
+|:----:|:-----|:---------:|:----:|
 |August 03|**Module 00**| Introduction to Tensor Algebra | [Lecture 1](notes/Lecture1.pdf)|
 |August 04|**Module 01**| Traction vector | [Lecture 2](notes/Lecture2.pdf)|
 |August 06|**Module 02**| Stress at a point | [Lecture 3](notes/Lecture3.pdf)|
