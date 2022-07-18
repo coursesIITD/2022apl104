@@ -1,6 +1,9 @@
 # APL 104: Solid Mechanics (Odd semester 2022)
 
-**Instructors:** Prof. [Ajeet Kumar](https://web.iitd.ac.in/~ajeetk/) (ajeetk@am.iitd.ac.in) and Prof. Rajdip Nayek (rajdipn@am.iitd.ac.in) <br> 
+## Course Info
+
+**Credit:** 4 units (3-1-0)
+**Instructors:** [Prof. Ajeet Kumar](https://web.iitd.ac.in/~ajeetk/) (ajeetk@am.iitd.ac.in) and [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> 
 **TA 1:** Atul Kumar (amz218551@am.iitd.ac.in) <br> 
 **TA 2:** Some student (amz____@am.iitd.ac.in) <br><br> 
 **Section A:** Tue, Wed & Fri (9:30 to 11:00 AM) at LHC126 <br> 
@@ -10,7 +13,9 @@
 **Office hours (TA)**: Visit the TA office <br> 
 **Office hours (Instructor)**: By appointment
 
-**Last updated:** 2022-07-03  
+**Intended audience:** BTech students in Applied Mechanics, Materials, and Mechanical Enggineering disciplines.
+
+**Last updated:** 2022-07-18  
 
 <!--
 **Previous offerings of this course**
@@ -64,6 +69,9 @@
 |July 28 at 11:45pm|Homework|HW 08|
 -->
 
+## Prerequisites
+"Engineering Mechanics" (APL100) is a prerequisite for this course, which you  already learned in the 1st year. 
+
 ## Table of Contents
 - [Course Description](#course-description)
 - [Course Objectives](#course-objectives)
@@ -73,7 +81,6 @@
 - [Course Outline](#course-outline)
 - [Course Attendance](#course-attendance)
 - [Tutorial](#tutorial)
-- [Programming Lab](#programming-lab)
 - [Quiz](#quiz)
 - [Policy for Cheating](#policy-for-cheating)
 - [Homework Assignment](#homework-assignment)
@@ -81,53 +88,53 @@
 - [Grading](#grading)
 - [Note](#note)
 
-## Course Description
-This course introduces computer programming for engineering students using MATLAB. MATLAB is an easy and readable programming language and is an excellent choice for those who are learning programming for the first time. This course will cover various topics including programming fundamentals, matrix operations, and data visualization. Students who complete this course will gain a fundamental understanding of computer programming techniques and be able to operate, analyze, and visualize all types of data for future engineering studies. **Remember that this course is not a simple MATLAB tutorial course.** It is an introductory programming course that utilizes MATLAB to illustrate general concepts in computer programming.  
+## Course Outline
+- Introduction to general concept of elasticity
+
+- General introduction to stress, stress at a point (2D and 3D), transformation of stress, Mohr’s circle.
+
+- Principal stress and Principal plane, Maximum shear plain, Pure shear
+
+- Equilibrium and compatibility equations, plane stress, plane strain
+
+- Stress invariants, octahedral stress, deviatoric and hydrostatic state of stress
+
+- Strain at a point, transformation of strain, Principal strain, shear strain
+
+- Constitutive relation, Strain-displacement relation, Generalized Hooke’s law, Material anisotropy, Strain compatibility equation, Airy’s stress function, Energy Methods
+
+- Large strain, large deformation, Green strain, Euler strain, strain-displacement relation revisited.
+
 
 This course includes lectures, tutorials, homework assignments, and quizzes:
-* [**Lectures**](#course-outline) are to cover the major topics, discussing the important programming concepts with worked-out examples. The instructor will teach the [*course material*](comp_method_book_cm_s21.pdf). 
-* [**Tutorials**](#tutorial) are **self-study** resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader.       
-* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*(S22) AE/ENVE/GEOE 121: Homework*](https://grader.mathworks.com/courses/75314-s22-ae-enve-geoe-121-homework) in the MATLAB Grader.
-* [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills. There will be four quizzes over the course. 
+* [**Lectures**](#course-outline) are to cover the major topics. 
+* [**Tutorials**](#tutorial) are resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial*]    
+* [**Homework assignments**](#homework-assignment) are to provide practice for evaluating your progress on the understanding of the course material. 
+* [**Quizzes**](#quiz) are to evaluate your knowledge and understanding. There will be *three quizzes* over the course. 
 
 ## Course Objectives
-By the end of this course, students should be able to  
-* Develop MATLAB programming logic to solve problems. 
-* Compose working, efficient, and readable MATLAB scripts in various ways.
-* Debug your code to identify and fix programming errors.
-* Identify suitable keywords to search for code snippets on the web.
-* Apply MATLAB to write your own program (very important).
+By the end of this course, the students should be able to  
+1. Define stress and strain tensors
+2. Determine strain invariants, principal strains and their directions.
+3. Develop constitutive relationships between stress and strain for linearly elastic solid.
 
 ## Study Guide
-* Attend all lectures. There are [video recordings of all lecture modules](#lecture-video) so you can review them if you do not understand the lectures clearly.    
+* Attend all lectures.   
 * Solve problems in the course materials and tutorials by yourself (please follow [the following instruction](#tutorial)).
-* Type and run all scripts of sample solutions in the course material and tutorial videos. Never skim the code.  
-* Make online engagement through **LEARN** or or ask for help from TA.   
-* Watch tutorial videos to check your answers to the problems.
-* Employ an editor, Workspace browser, and debugging tool to solve the problems (not on MATLAB Grader). 
 
-## Prerequisites
-"Engineering Mechanics" (APL100) is a prerequisite for this course, which you  already learned in the 1st year. 
-
-* [**How to use MATLAB Grader?**](doc/matlab_grader)
-* [**How to download and install MATLAB on your computer?**](doc/matlab_install)
 
 ## Course Textbook 
 This course is not based on any particular textbook. However, the [course materials](comp_method_book_cm_s21.pdf) have been prepared using the following two references:
-* Attaway, Stormy. *"MATLAB-A Practical Introduction to Programming and Problem Solving,"* Elsevier, 2018.
-* Moore, Holly. *"MATLAB for Engineers,"* Pearson, 2017.
+* Srinath, L.S. *"Advanced Solid Mechanics"*, Elsevier, 2018.
+* Timoshenko, S.P. and Goodier, J.N *"Theory of Elasticity"*, McGraw Hill, 2017.
+* Sadd, M.H. *"Elasticity: Theory, Applications and Numerics"*, Elsevier, 2005
 
 ## Course Outline
 All lectures will be delivered in person. However, **all students must watch lecture videos from** [**here**](#lecture-video) **or** [**YouTube Channel**](https://youtube.com/playlist?list=PLa1nAPP8qUX9qwRR6Sj_dboIriPIGYgsm) **before attending the class.** You will study ten modules and each module has one or two videos. The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and all previous modules. 
 
 Lectures are to deliver fundamental knowledge and information in each module and **are not to give a direction on how to solve your homework assignments or quizzes**. However, all the practice problems were designed based on the course materials. Thus, if students do not find the relevance between them, they have not understood lectures yet and should carefully review them again. 
 
-### Pre-assessment
-To confirm whether students watch the lecture videos, students need to pass a pre-assessment for each module before its due date. The assessment will start from Module 02. Pre-assessment questions for each module will be posted on [**(S22) AE/ENVE/GEOE 121: Homework**](https://grader.mathworks.com/courses/75314-s22-ae-enve-geoe-121-homework).
-
-Students receive 1.5 point if they pass the pre-assessment for each module before its [deadline](#schedule). The maximum scores that students will receive from the pre-assessment are 9. This means students can get a full mark if they pass 6 pre-assessements among 8 ones (M02-M07, M09, M11). This considers unavoidable absence, such as illness, job interview. Students do not have to inform TA or instructor for delay submission. No matter the reason, students pass the question before the due date (there will be no delay). Otherwise, they cannot get a score.  
-
-### Schedule
+## Lecture Schedule
 |Module|Topics|PREA|
 |:-----|:-----|:--:|
 |**Module 00**|Preliminaries|N/A|
