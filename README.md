@@ -138,9 +138,9 @@ Lectures are to deliver fundamental knowledge and information in each module and
 ## Lecture Schedule
 |Module|Topics|Date |Lecture Notes|
 |:-----|:-----|:--:|:--:|
-|**Module 00**|August 03| Introduction to Tensor Algebra|notes/lecture1.pdf|
-|**Module 01**|August 04| Traction vector|notes/lecture2.pdf|
-|**Module 02**|August 06| Stress at a point|notes/lecture3.pdf|
+|**Module 00**|August 03| Introduction to Tensor Algebra|(notes/lecture1.pdf)|
+|**Module 01**|August 04| Traction vector|(notes/lecture2.pdf)|
+|**Module 02**|August 06| Stress at a point|(notes/lecture3.pdf)|
 
 <!--
 Here, 'PREA' indicates the deadline for the pre-assessment of the corresponding module (before 11:45pm). You can check all due date from [**this schedule table here**](#key-due-date)
