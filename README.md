@@ -2,14 +2,17 @@
 
 ## Course Info
 
-**Credit:** 4 units (3-1-0) <br>
-**Instructors:** [Prof. Ajeet Kumar](https://web.iitd.ac.in/~ajeetk/) (ajeetk@am.iitd.ac.in) and [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> 
+**Credit:** 4 units (3-1-0) <br> <br>
+**Instructors:** [Prof. Ajeet Kumar](https://web.iitd.ac.in/~ajeetk/) (ajeetk@am.iitd.ac.in) and [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
 **TA 1:** Atul Kumar (amz218551@am.iitd.ac.in) <br> 
 **TA 2:** Some student (amz____@am.iitd.ac.in) <br><br> 
+
 **Section A:** Tue, Wed & Fri (9:30 to 11:00 AM) at LHC126 <br> 
 **Tutorial Session A:** Thu (2:30 to 3:20 PM) at LHC 1346 <br> <br>
+
 **Section B:** Tue, Wed & Fri (9:30 to 11:00 AM) at LHC126 <br> 
-**Tutorial Session B:** Fri (2:30 to 3:20 PM) at LHC 108 <br> <br> 
+**Tutorial Session B:** Fri (2:30 to 3:20 PM) at LHC 108 <br> <br>
+
 **Office hours (TA)**: Visit the TA office <br> 
 **Office hours (Instructor)**: By appointment <br>
 
@@ -25,8 +28,6 @@
 - [**Computational Method (Spring, 2019)**](old/s2019)
 -->
 
-**Key links**
-- [**NPTEL Lectures by Prof. Ajeet Kumar**](https://www.youtube.com/playlist?list=PLp6ek2hDcoNALS0KiBAUiCwrTrvil2vL3)
 
 **Folders**   
 - [**Pre-assessment**](tutorial/PREA)   
@@ -135,39 +136,17 @@ All lectures will be delivered in person. However, **all students must watch lec
 Lectures are to deliver fundamental knowledge and information in each module and **are not to give a direction on how to solve your homework assignments or quizzes**. However, all the practice problems were designed based on the course materials. Thus, if students do not find the relevance between them, they have not understood lectures yet and should carefully review them again. 
 
 ## Lecture Schedule
-|Module|Topics|PREA|
-|:-----|:-----|:--:|
-|**Module 00**|Preliminaries|N/A|
-|**Module 01**|Basic MATLAB Programming|N/A|
-|**Module 02**|Vectors and Matrices|May 08|
-|**Module 03**|Selection Statement|May 15|
-|**Module 04**|Loop Statement|May 22|
-|**Module 05**|Built-in Functions|May 29|
-|**Module 06**|Operator|June 19|
-|**Module 07**|Function|June 26|
-|**Module 08**|Plotting|N/A|
-|**Module 09**|Data Structure|July 10|
-|**Module 11**|Text Manipulation|July 17|
-
-Here, 'PREA' indicates the deadline for the pre-assessment of the corresponding module (before 11:45pm). You can check all due date from [**this schedule table here**](#key-due-date)
+|Module|Topics|Date |Lecture Notes|
+|:-----|:-----|:--:|:--:|
+|**Module 00**|August 03| Introduction to Tensor Algebra|notes/lecture1.pdf|
+|**Module 01**|August 04| Traction vector|notes/lecture2.pdf|
+|**Module 02**|August 06| Stress at a point|notes/lecture3.pdf|
 
 <!--
+Here, 'PREA' indicates the deadline for the pre-assessment of the corresponding module (before 11:45pm). You can check all due date from [**this schedule table here**](#key-due-date)
+
 ### Lecture Video 
 Students can watch lecture videos for each module. 
-
-|Module|Video| 
-|:----|:----|
-|**Module 00**|[<img src="http://img.youtube.com/vi/65e-4AVwE4s/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=65e-4AVwE4s) [<img src="http://img.youtube.com/vi/1zDLYaxqKHE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=1zDLYaxqKHE)|
-|**Module 01**| [<img src="http://img.youtube.com/vi/-vJBm23Wk6k/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=-vJBm23Wk6k)  [<img src="http://img.youtube.com/vi/ObDfOQkglSo/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=ObDfOQkglSo)|
-|**Module 02**| [<img src="http://img.youtube.com/vi/83HysRVk5Zg/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=83HysRVk5Zg) [<img src="http://img.youtube.com/vi/5rP8F1pwggA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=5rP8F1pwggA)|
-|**Module 03**| [<img src="http://img.youtube.com/vi/6zSqabjvOJM/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=6zSqabjvOJM)|
-|**Module 04**| [<img src="http://img.youtube.com/vi/VLzROWaeJQY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=VLzROWaeJQY)  [<img src="http://img.youtube.com/vi/lnKsXv7fsys/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=lnKsXv7fsys)|
-|**Module 05**|[<img src="http://img.youtube.com/vi/o-Z_DiDkwGs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=o-Z_DiDkwGs)  [<img src="http://img.youtube.com/vi/Rj6P1iDoqZw/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Rj6P1iDoqZw)|
-|**Module 06**|[<img src="http://img.youtube.com/vi/3btxqXW6JjU/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=3btxqXW6JjU)  [<img src="http://img.youtube.com/vi/lCkpP0HTS1I/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=lCkpP0HTS1I)|
-|**Module 07**|[<img src="http://img.youtube.com/vi/otwRHFWzsH0/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=otwRHFWzsH0)  [<img src="http://img.youtube.com/vi/Wna92qy3PyE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Wna92qy3PyE)|
-|**Module 08**|**No Lecture Video**|
-|**Module 09**|[<img src="http://img.youtube.com/vi/R_lxqZWc1rs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=R_lxqZWc1rs)  [<img src="http://img.youtube.com/vi/VmGPrzd7pik/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=VmGPrzd7pik)|
-|**Module 11**|[<img src="http://img.youtube.com/vi/qubtDteNV38/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=qubtDteNV38)  [<img src="http://img.youtube.com/vi/NgntRda2sCY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=NgntRda2sCY)|
 
 ## Course Attendance
 Students are highly encouraged to attend all classes. They have to attend the classes to receive 9 point attendance scores. There will be one or two Kahoot games in each module. Students receive 1.5 point if they simply **join ALL kahoot sessions** in the corresponding module. For example, Module 02 has two Kahoot sessions. If students only attend one session, they will not receive point. The maximum score that students will receive from these games is 9, which mean students can get a full mark (9 points) if they join at least 6  modules among 8 modules (M02-M08, M09, M11). Similar to the pre-assessement, this considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. 
@@ -208,19 +187,9 @@ The tutorials are self-study resources to assist students in the problems of cou
 
 You do not have to memorize any of the solutions. You can freely access all these solutions during the quizzes because they are open-book quizzes. However, I tell you, without going through this process, you cannot write your own script during the quizzes and will not get a good mark on them. 
 
-
-## Programming Lab
-The programming labs will be held in a main computer lab (CPH 1346). The programming labs include module reviews and quizzes. The programming labs are designed to focus on hands-on practice with MATLAB programming. Students can use the computers in the lab or bring their own laptop if MATLAB is installed. **The instructor and TAs will check the attendance but they will not used for grading.** Students are highly encouraged to attend the programming labs.  
-
 ## Quiz
-The quizzes will be delivered through the MATLAB Grader like, tutorials or homework assignments. The quizzes will be posted on 
 
-* **AE**: [https://grader.mathworks.com/courses/76605-s22-ae-121-quizzes](https://grader.mathworks.com/courses/76605-s22-ae-121-quizzes)
-* **ENVE/GEOE**: [https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes](https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes)
-
-The major differences are a **time limit** and **a limited submission**. Remember that although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB (program) editor before submission. 
-
-
+<!--
 ### Schedule 
 ## AE
 |Quiz|Topics|Date|Duration|Location|Instruction|
