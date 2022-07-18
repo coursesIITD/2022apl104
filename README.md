@@ -108,7 +108,7 @@
 
 
 This course includes lectures, tutorials, homework assignments, and quizzes:
-* [**Lectures**](#course-outline) are to cover the major topics. 
+* [**Lectures**](#lecture-schedule) are to cover the major topics. 
 * [**Tutorials**](#tutorial) are resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial*]    
 * [**Homework assignments**](#homework-assignment) are to provide practice for evaluating your progress on the understanding of the course material. 
 * [**Quizzes**](#quiz) are to evaluate your knowledge and understanding. There will be *three quizzes* over the course. 
