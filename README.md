@@ -20,56 +20,6 @@
 
 **Last updated:** 2022-07-18  
 
-<!--
-**Previous offerings of this course**
-- [**Computational Method (Winter, 2022)**](old/w2022)
-- [**Computational Method (Spring, 2021)**](old/s2021)
-- [**Computational Method (Spring, 2020)**](old/s2020)
-- [**Computational Method (Spring, 2019)**](old/s2019)
-
-
-
-**Folders**   
-- [**Pre-assessment**](tutorial/PREA)   
-- [**Class materials**](tutorial/CLASS)   
-- [**Kahoot**](tutorial/KAHOOT)   
-
-**Course**  
-- June 28: Instruction for Quiz 3: [Link](doc/Quiz3_Description.md)  
-- June 20: Course feedback (7th Week): [Link](doc/Q2_Feedback_Answer.md)  
-- May 31: Instruction for Quiz 2: [Link](doc/Quiz2_Description.md)  
-- May 24: Course feedback (4th Week): [Link](doc/Q1_Feedback_Answer.md)  
-- May 10: Instruction for Quiz 1: [Link](doc/Quiz1_Description.md)
-
-## Announcement
-* **June 27, 2022:** For ENVE/GEOE students, LAB 06 will be held on July 4 at 4:30pm (CPH 1346) because the lab on July 1 is canceled.   
-
-
-## Course Schedule
-* [**AE Schedule**](doc/schedule_ae_enve_geoe.md#course-schedule-ae.md)  
-* [**ENVE/GEOE Schedule**](doc/schedule_ae_enve_geoe.md#course-schedule-envegeoe.md)
-
-## Key Due Date
-|Due Date|Type|Deliverable|
-|:----|:----|:----|
-|May 08 at 11:45pm|Pre-assessment|Module 02 review|
-|May 13 at 11:45pm|Homework|HW 01|
-|May 15 at 11:45pm|Pre-assessment|Module 03 review|
-|May 20 at 11:45pm|Homework|HW 02|
-|May 22 at 11:45pm|Pre-assessment|Module 04 review|
-|May 29 at 11:45pm|Pre-assessment|Module 05 review|
-|June 03 at 11:45pm|Homework|HW 03|
-|June 10 at 11:45pm|Homework|HW 04|
-|June 19 at 11:45pm|Pre-assessment|Module 06 review|
-|June 26 at 11:45pm|Pre-assessment|Module 07 review|
-|July 04 at 11:45pm|Homework|HW 05|
-|July 08 at 11:45pm|Homework|HW 06|
-|July 10 at 11:45pm|Pre-assessment|Module 09 review|
-|July 17 at 11:45pm|Pre-assessment|Module 11 review|
-|July 22 at 11:45pm|Homework|HW 07|
-|July 28 at 11:45pm|Homework|HW 08|
--->
-
 ## Prerequisites
 "Engineering Mechanics" (APL100) is a prerequisite for this course, which you  already learned in the 1st year. 
 
@@ -77,9 +27,7 @@
 - [Course Outline](#course-outline)
 - [Course Objectives](#course-objectives)
 - [Course Textbook](#course-textbook)
-- [Course Outline](#course-outline)
 - [Lecture Schedule](#)
-- [Study Guide](#study-guide)
 - [Course Attendance](#course-attendance)
 - [Tutorial](#tutorial)
 - [Quiz](#quiz)
@@ -119,22 +67,12 @@ By the end of this course, the students should be able to
 2. Determine strain invariants, principal strains and their directions.
 3. Develop constitutive relationships between stress and strain for linearly elastic solid.
 
-## Study Guide
-* Attend all lectures.   
-* Solve problems in the course materials and tutorials by yourself.
-
-
 ## Course Textbook 
 This course is not based on any particular textbook. However, the course materials have been prepared using the following four references:
 * Solid Mechanics (NPTEL) by Prof. Ajeet Kumar [video link](https://www.youtube.com/playlist?list=PLp6ek2hDcoNALS0KiBAUiCwrTrvil2vL3)
 * Srinath, L.S. *"Advanced Solid Mechanics"*, Elsevier, 2018.
 * Timoshenko, S.P. and Goodier, J.N *"Theory of Elasticity"*, McGraw Hill, 2017.
 * Sadd, M.H. *"Elasticity: Theory, Applications and Numerics"*, Elsevier, 2005
-
-## Course Outline
-All lectures will be delivered in person. However, **all students must watch lecture videos from** [**here**](#lecture-video) **or** [**YouTube Channel**](https://youtube.com/playlist?list=PLa1nAPP8qUX9qwRR6Sj_dboIriPIGYgsm) **before attending the class.** You will study ten modules and each module has one or two videos. The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and all previous modules. 
-
-Lectures are to deliver fundamental knowledge and information in each module and **are not to give a direction on how to solve your homework assignments or quizzes**. However, all the practice problems were designed based on the course materials. Thus, if students do not find the relevance between them, they have not understood lectures yet and should carefully review them again. 
 
 ## Lecture Schedule
 Date |Module|Topics|Lecture Notes|
@@ -143,50 +81,10 @@ Date |Module|Topics|Lecture Notes|
 |August 04|**Module 01**| Traction vector | [Lecture 2](notes/Lecture2.pdf)|
 |August 06|**Module 02**| Stress at a point | [Lecture 3](notes/Lecture3.pdf)|
 
-<!--
-Here, 'PREA' indicates the deadline for the pre-assessment of the corresponding module (before 11:45pm). You can check all due date from [**this schedule table here**](#key-due-date)
-
-### Lecture Video 
-Students can watch lecture videos for each module. 
-
 ## Course Attendance
-Students are highly encouraged to attend all classes. They have to attend the classes to receive 9 point attendance scores. There will be one or two Kahoot games in each module. Students receive 1.5 point if they simply **join ALL kahoot sessions** in the corresponding module. For example, Module 02 has two Kahoot sessions. If students only attend one session, they will not receive point. The maximum score that students will receive from these games is 9, which mean students can get a full mark (9 points) if they join at least 6  modules among 8 modules (M02-M08, M09, M11). Similar to the pre-assessement, this considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. 
+Students are highly encouraged to attend all classes. They have to attend the classes to receive 5% point attendance scores. In case of unavoidable absence, such as illness, job interview, please send an appropriate email with email subject specifying the subject code APL 104.
 
 Again, students **do not have to** inform TA or instructor for their absent in the class. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will **not arrange a special accommodation for the attendance.** Please do not send an email to the instructor or TA to explain your absent.   
-
-To participate the game, the instructor will show the students a game pin number. 
-
-* Step 1: Go to the Kahoot! website [https://kahoot.it/](https://kahoot.it/) and type a pin number. The instructor will show the pin number in each game. 
-* Step 2: Type your university email address
-* Step 3: **Type your nick name as your first name**.  
-* Step 4. You are ready for joining the game    
-
-|![](doc/img/kahoot_step1.png)|![](doc/img/kahoot_step2.png)|
-|:--------:|:-----------:|
-|**Step 1**|**Step 2**|
-|![](doc/img/kahoot_step3.png)|![](doc/img/kahoot_step4.png)|
-|**Step 3**|**Step 4**|
-
-We will update your attendance, pre-assessement, and participation mark record in LEARN. If the record is not correct, please send an email to TA. When students check the attendance by dishonest means (e.g. a student present at a class join the game using more than one account, remotely access the game using a pin number, informed by a student present at a class), they are considered as an academic offense and receive 0 for **all attendance score**. And they are disciplined by [Policy for Cheating](#policy-for-cheating)    
-
-## Tutorial
-The tutorials are self-study resources to assist students in the problems of course material, homework assignments, and quizzes. Students can find the problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader. The model answers for all tutorial problems were posted on this [**page**](tutorial). All students are **highly recommended** to solve practice problems to prepare for your quizzes. Here is how to study the tutorial. 
-
-* **Step 1.** Understand a problem listed on each Module in MATLAB Grader: You need to carefully read the description of problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) or from this [page](tutorial).
-
-* **Step 2.** Write your own script to solve the problems: You should use a MATLAB program and write your own program to solve the question. You need to do practice on debugging to fix errors on your code if necessary. Please do not look at the model answer or watch the solution video before you make your own script.  
-
-* **Step 3.** Copy and paste your script to the MATLAB Grader: If you think your script is ready for testing, copy and paste the script to the MATLAB Grader. Click "Run Script" first to check out any syntax or run-time errors (if you already check this on the MATLAB program, you should not see the error message). 
-
-* **Step 4.** Submit your solution: Many tests (assessments) were pre-designed to evaluate the correctness of your solution. You need to ensure that your solution passes all the tests. However, you should not do hard coding to pass the tests. Developing the right logic on your code is much more important than passing the test. For example, many students got zero on problems in the quizzes last year, although they pass all tests. Passing the test is just to check the quality of your script (like pre-screening) but does not mean that your script is correct or written based on a right programming logic.           
-
-* **Step 5.** Review the model solution: The model solutions for all problems were already posted on this [page](tutorial). The instructor recorded videos to review those problems. Students are encouraged to mimic how the instructor writes the script and debug its error. Although the model answer is simply one of the possible ways to solve the problem, they were written based on the key knowledge or methods covered in the corresponding or prior modules.   
-
-* **Step 6.** Type and run the model script: Skimming the code is not a good way to improve your programming skill. You should type them and run the script in the MATLAB program and MATLAB Grader. I would say programming is like learning sports. You should do practice with your hand, not by eye. 
-
-* **Step 7 (Very important).** Improve your original script: Although you may practice using the model solutions, it is important to develop your own script. A better approach is trying to improve your original script based on the model solution. For example, updating programming logic or shortening the scripts will be greatly helpful that you can employ such code in your future script. Try solving the program again without looking at your original script or model solutions. You will see that your new script will not be the same as the model solution but are much more efficient and compacted than your original ones. 
-
-You do not have to memorize any of the solutions. You can freely access all these solutions during the quizzes because they are open-book quizzes. However, I tell you, without going through this process, you cannot write your own script during the quizzes and will not get a good mark on them. 
 
 ## Quiz
 
