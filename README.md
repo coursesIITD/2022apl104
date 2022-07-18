@@ -137,11 +137,11 @@ All lectures will be delivered in person. However, **all students must watch lec
 Lectures are to deliver fundamental knowledge and information in each module and **are not to give a direction on how to solve your homework assignments or quizzes**. However, all the practice problems were designed based on the course materials. Thus, if students do not find the relevance between them, they have not understood lectures yet and should carefully review them again. 
 
 ## Lecture Schedule
-|Module|Topics|Date |Lecture Notes|
+Date |Module|Topics|Lecture Notes|
 |:-----|:-----|:--:|:--:|
-|**Module 00**|August 03| Introduction to Tensor Algebra | [Lecture 1](notes/Lecture1.pdf)|
-|**Module 01**|August 04| Traction vector | [Lecture 2](notes/Lecture2.pdf)|
-|**Module 02**|August 06| Stress at a point | [Lecture 3](notes/Lecture3.pdf)|
+|August 03|**Module 00**| Introduction to Tensor Algebra | [Lecture 1](notes/Lecture1.pdf)|
+|August 04|**Module 01**| Traction vector | [Lecture 2](notes/Lecture2.pdf)|
+|August 06|**Module 02**| Stress at a point | [Lecture 3](notes/Lecture3.pdf)|
 
 <!--
 Here, 'PREA' indicates the deadline for the pre-assessment of the corresponding module (before 11:45pm). You can check all due date from [**this schedule table here**](#key-due-date)
