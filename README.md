@@ -26,7 +26,7 @@
 - [**Computational Method (Spring, 2021)**](old/s2021)
 - [**Computational Method (Spring, 2020)**](old/s2020)
 - [**Computational Method (Spring, 2019)**](old/s2019)
--->
+
 
 
 **Folders**   
@@ -34,7 +34,7 @@
 - [**Class materials**](tutorial/CLASS)   
 - [**Kahoot**](tutorial/KAHOOT)   
 
-<!--**Course**  
+**Course**  
 - June 28: Instruction for Quiz 3: [Link](doc/Quiz3_Description.md)  
 - June 20: Course feedback (7th Week): [Link](doc/Q2_Feedback_Answer.md)  
 - May 31: Instruction for Quiz 2: [Link](doc/Quiz2_Description.md)  
@@ -74,12 +74,12 @@
 "Engineering Mechanics" (APL100) is a prerequisite for this course, which you  already learned in the 1st year. 
 
 ## Table of Contents
-- [Course Description](#course-description)
+- [Course Outline](#course-outline)
 - [Course Objectives](#course-objectives)
-- [Study Guide](#study-guide)
-- [Prerequisites](#prerequisites)
 - [Course Textbook](#course-textbook)
 - [Course Outline](#course-outline)
+- [Lecture Schedule](#)
+- [Study Guide](#study-guide)
 - [Course Attendance](#course-attendance)
 - [Tutorial](#tutorial)
 - [Quiz](#quiz)
